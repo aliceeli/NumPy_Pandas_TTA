@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Nov  4 17:02:04 2020
-
-@author: alicehoyle
-"""
-
 import pandas as pd
 
 # How many rows and columns are in your file?
